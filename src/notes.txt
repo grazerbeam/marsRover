@@ -1,6 +1,0 @@
-- Thanks for the lesson!
-
-Today complete the Rover task
-- Focus less on TypeScript syntax
-- Autocomplete code as much as possible
-- At an advantage having slept on the problem 
