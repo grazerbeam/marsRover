@@ -1,2 +1,0 @@
-# marsRover
-Created with CodeSandbox
